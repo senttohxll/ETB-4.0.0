@@ -2,13 +2,13 @@
   "proxies":["https://trades.roblox.com/"
   ],
   "cantsendinterval":1000,
-  "DISCORD_ID": "693482849914847282",
-  "CMDS": "770768441614532688",
+  "DISCORD_ID": "471657697834696705",
+  "CMDS": "800146585610223628",
   "notifs": [
-    "819560203284512809"
+    "800162688046202892"
   ],
-  "NOTIF_CHANNEL": "775072489386016768",
-  "TRADE_CHANNEL": "775072489386016768",
+  "NOTIF_CHANNEL": "800146585610223628",
+  "TRADE_CHANNEL": "800238017574207558",
   "colors": {
     "inbound": "GREEN",
     "declined": "RED",
@@ -19,12 +19,12 @@
   },
   "security_check":true,
   "ignore_rap":false,
-  "dontcheckoutbound": true,
+  "dontcheckoutbound": false,
   "rapboost": 1.1,
   "reset_already_sent_interval": 3600000,
   "upgrade":true,
   "downgrade":true,
-  "use_robux": true,
+  "use_robux": false,
   "projected_ratio": 0.3,
   "robux_ratio_send": 0.001,
   "testmode": true,

@@ -2,7 +2,7 @@
 #### Here is what an empty config looks like. Scroll down to see what each of these does 
 ```js
 {
-    "DISCORD_ID": "",
+    "DISCORD_ID": "471657697834696705",
     "CMDS": "",
     "notifs": [
       ""
